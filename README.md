@@ -17,7 +17,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="78" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="78" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="78" alt="mongodb logo"  />
   <img width="12" />
