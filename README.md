@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 Fullstack developer in Python, C#, .NET and other modern technologies.</p>
+<p align="left">💻 Fullstack developer in Python, ASP.NET, .NET, Flutter and other modern technologies.</p>
 
 ###
 
