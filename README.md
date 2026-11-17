@@ -1,89 +1,74 @@
-<h1 align="left">👋 Hello! i'm Arthur</h1>
+<div align="center">
 
-###
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=3FB950&center=true&vCenter=true&width=600&lines=Hello!+I'm+Arthur+%F0%9F%91%8B;Full+Stack+Developer;Java+%7C+React+%7C+SQL;Cybersecurity+enthusiast+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 
-<p align="left">💻 Fullstack developer in ASP.NET, .NET, Flutter, React and other modern technologies.</p>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-###
+## 👨‍💻 About me
 
-<h2 align="left">🚀 Technologies and Tools</h2>
+- 💼 Full Stack intern at **Prodemge**
+- 🎓 Information Systems student
+- ☕ Building back-ends with **Java + Spring Boot** and front-ends with **React**
+- 🗄️ Designing and tuning **SQL** databases
+- 🛡️ Studying **cybersecurity**: web app security, OWASP Top 10, pentest and network analysis
+- 🔧 Background as an IT technician, with deep hands-on experience in hardware
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="78" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="78" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="78" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="78" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="78" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="78" alt="mongodb logo"  />
+## 🚀 Tech Stack
+
+**Back-end**
+
+<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" alt="Back-end" />
+
+**Front-end**
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark" alt="Front-end" />
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases" />
+
+**Cybersecurity**
+
+<img src="https://skillicons.dev/icons?i=linux,bash&theme=dark" alt="Linux and Bash" />
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman&theme=dark" alt="Tools" />
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details" width="100%" />
+
+<img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" height="180" />
+<img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most commit language" height="180" />
+
+<img src="https://streak-stats.demolab.com?user=Arth1022&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+
+<img src="https://raw.githubusercontent.com/Arth1022/Arth1022/output/github-snake-dark.svg" alt="Contribution snake" />
+
 </div>
 
-###
+---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+## 📫 Contact
 
-###
+<p align="left">
+  <a href="https://www.linkedin.com/in/arthuralexteixeira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/arth_22_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://w.app/arthuralexandrecontact" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="mailto:arthuteixeira.1337@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-<h2 align="left">📫 Contact</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/arthuralexteixeira/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/arth_22_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://w.app/arthuralexandrecontact" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:arthuteixeira.1337@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media.tenor.com/1hIfOVIolbMAAAAM/iron-man-tony-stark.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arth1022&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1&custom_title=Arth%20's%20GitHub%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arth1022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2&custom_title=Languages" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=3&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
+![Profile views](https://komarev.com/ghpvc/?username=Arth1022&color=3fb950&style=flat-square&label=Profile+views)
