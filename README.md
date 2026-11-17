@@ -24,7 +24,7 @@
 
 **Front-end**
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind&theme=dark" alt="Front-end" />
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" alt="Front-end" />
 
 **Databases**
 
