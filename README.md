@@ -28,17 +28,15 @@
 
 **Databases**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="48" alt="SQL Server" />
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL and PostgreSQL" />
+<img src="./assets/databases.svg" alt="SQL Server, MySQL, PostgreSQL" />
 
 **E2E Testing**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" height="48" alt="Playwright" />
+<img src="./assets/testing.svg" alt="Playwright" />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman&theme=dark" alt="Tools" />
-<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.103.0/icons/kiro-color.svg" height="48" alt="Kiro" />
+<img src="./assets/tools.svg" alt="Git, GitHub, Docker, IntelliJ IDEA, VS Code, Postman, Kiro" />
 
 ---
 
