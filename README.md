@@ -38,6 +38,7 @@
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman&theme=dark" alt="Tools" />
+<img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.103.0/icons/kiro-color.svg" height="48" alt="Kiro" />
 
 ---
 
